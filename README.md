@@ -1,8 +1,7 @@
 # -
 用于毕业设计
 
-A Comprehensive Survey on Graph Neural Networks 
-https://arxiv.org/abs/1901.00596
+[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
 
 Semi-Supervised Classification with Graph Convolutional Networks
 https://arxiv.org/abs/1609.02907
